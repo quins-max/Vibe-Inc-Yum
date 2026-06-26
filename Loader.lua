@@ -1,6 +1,6 @@
 local games = {
     [79268393072444] = "https://api.jnkie.com/api/v1/luascripts/public/5e2c79396761fd510990d9bdd04dfaf08d0ccb63e623c52af59a11a4a782c910/download", -- Sell Lemons
-    [18687417158]    = "https://api.jnkie.com/api/v1/luascripts/public/890b69b64fe24f053a87294b34fbf84864345860fca265234c5d16f9880ff382/download" -- Doors
+    [83645629621104]    = "https://api.jnkie.com/api/v1/luascripts/public/890b69b64fe24f053a87294b34fbf84864345860fca265234c5d16f9880ff382/download" -- Forsaken
 }
 
 local currentPlaceId = game.PlaceId
